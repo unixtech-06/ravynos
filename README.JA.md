@@ -1,5 +1,5 @@
 # ravynOSとは？ [![Build Status](https://api.cirrus-ci.com/github/ravynsoft/ravynos.svg?branch=main)](https://cirrus-ci.com/github/ravynsoft/ravynos) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-### 他の言語で読む: [English](README.md), [Italiano](README.IT.md), [Türkçe](README.TR.md), [Deutsch](README.DE.md), [Indonesia](README.ID.md), [简体中文](README.zh_CN.md), [繁體中文](README.zh_TW.md), [Português do Brasil](README.pt_BR.md), [한국어](README.KR.md), [فارسی](README.FA.md), [Magyar](README.HU.md), [日本語](README.JA.md)
+### 他の言語で読む: [English](README.md), [Italiano](README.IT.md), [Türkçe](README.TR.md), [Deutsch](README.DE.md), [Indonesia](README.ID.md), [简体中文](README.zh_CN.md), [繁體中文](README.zh_TW.md), [Português do Brasil](README.pt_BR.md), [한국어](README.KR.md), [فارسی](README.FA.md), [Magyar](README.HU.md)
 
 ravynOSは、x86-64（および将来的にはARM）システム上でmacOSと同様の体験と一定の互換性を提供することを目指す、新しいオープンソースOSプロジェクトです。FreeBSDの強固な基盤、同じ領域の既存のオープンソースパッケージ、そしてそのギャップを埋めるための新しいコードの上に構築されています。
 
